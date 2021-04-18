@@ -1,3 +1,11 @@
+### how to run in production
+### 运行在生产环境 [直接点击这里查看production](production/README.md）
+See [production README.md](production/README.md) for more information about the prodictive usage of nodepki. 
+
+####  以下内容来自 https://github.com/aditosoftware/nodepki-docker
+####   The following is from https://github.com/aditosoftware/nodepki-docker
+
+
 # NodePKI Docker Image
 
 ```
